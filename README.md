@@ -5,7 +5,8 @@ A fully responsive with database connection employee management system developed
 
 
 This is the main page:
-
+<br>
+<br>
 ![Screenshot (27)](https://github.com/viveksahani/Employee-Management-System/assets/94420688/4d03baa7-bd10-4ef7-a936-c8fb1a33d59f)
 
 
