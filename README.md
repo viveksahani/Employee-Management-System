@@ -7,6 +7,7 @@ A fully responsive with database connection employee management system developed
 <b>Step 1: </b>
 create a database named 'ems' inside it create a table named 'employee' with following details exactlly-
 <br>
+<br>
 create table employee (id int primary key,<br>
 name varchar(100) not null,<br>
 address varchar(255) not null,<br>
