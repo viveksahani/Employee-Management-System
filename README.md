@@ -1,6 +1,7 @@
 # Employee-Management-System
 A fully responsive with database connection employee management system developed for windows form application using .net c#
 
+<b>Note:</b>
 
 This is the main page:
 
