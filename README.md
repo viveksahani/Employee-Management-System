@@ -1,7 +1,11 @@
 # Employee-Management-System
 A fully responsive with database connection employee management system developed for windows form application using .net c#
 
+
+
+
 This is the main page:
+
 ![Screenshot (27)](https://github.com/viveksahani/Employee-Management-System/assets/94420688/4d03baa7-bd10-4ef7-a936-c8fb1a33d59f)
 
 Once you click on add employee icon this dialog box appear to enter employee details. This is fully responsive and validated so that you can not be able to enter inapprpriate data. ID no is pre entered and you can not edit basically this field is blocked to edit, this id field is getting it's data on the basis of maximum id no present in the database of employee. 
