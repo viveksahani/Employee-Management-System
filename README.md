@@ -6,18 +6,18 @@ A fully responsive with database connection employee management system developed
 
 <b>Step 1: </b>
 create a database named 'ems' inside it create a table named 'employee' with following details exactlly-
-
-create table employee (id int primary key, 
-name varchar(100) not null,
-address varchar(255) not null,
-contact varchar(10) not null,
-email varchar(100) not null,
-designation varchar(100) not null,
-department varchar(100) not null,
-joinDate varchar(10) not null,
-wageRate int not null,
-workedHour int not null
-);
+<br>
+create table employee (id int primary key,<br>
+name varchar(100) not null,<br>
+address varchar(255) not null,<br>
+contact varchar(10) not null,<br>
+email varchar(100) not null,<br>
+designation varchar(100) not null,<br>
+department varchar(100) not null,<br>
+joinDate varchar(10) not null,<br>
+wageRate int not null,<br>
+workedHour int not null<br>
+);<br>
 
 <b>Step 2: </b>
 Copy your SQL server name and paste at Data Source name present in 'AddEmployee.cs', 'Form1.cs' and 'Form2.cs' files
