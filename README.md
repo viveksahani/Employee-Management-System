@@ -1,8 +1,8 @@
 # Employee-Management-System
 A fully responsive with database connection employee management system developed for windows form application using .net c#
 
-<b>Note:</b>
-<br>Instruction to setup :-</b>
+<b>Note:</b><br>
+<b>Instruction to setup :</b>
 
 <b>Step 1: </b>
 create a database named 'ems' inside it create a table named 'employee' with following details exactlly-
